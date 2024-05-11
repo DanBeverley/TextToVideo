@@ -1,0 +1,10 @@
+torch==<torch_version>               # pip install torch
+ipython                             # pip install ipython
+omegaconf                           # pip install omegaconf
+Pillow                              # pip install Pillow
+matplotlib                          # pip install matplotlib
+tqdm                                # pip install tqdm
+kornia                              # pip install kornia
+imageio                             # pip install imageio
+==========================================================
+pip install -r requirements.txt
